@@ -33,13 +33,28 @@
       "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates non commodi voluptatem? Eum quisquam accusamus voluptates, pariatur voluptatem, alias ipsam dicta aperiam possimus repellendus hic nisi impedit saepe explicabo totam?"
     },
     {
-      "id":5,
-      "title":"Very Nice 5",
-      "author":"Lorem ipsum dolor",
-      "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQq0kMC6S3GDmewRlcAQdhJtI3R2FxuVOsNnw&usqp=CAU",
-      "categories": ["Fiction", "English", "Romance"],
+      "id":6,
+      "title":"The King Of Drugs",
+      "author":"Nora Barrett",
+      "img":"https://d1csarkz8obe9u.cloudfront.net/posterpreviews/action-thriller-book-cover-design-template-3675ae3e3ac7ee095fc793ab61b812cc_screen.jpg?ts=1588152105",
+      "categories": ["Fiction", "English", "Action"],
       "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates non commodi voluptatem? Eum quisquam accusamus voluptates, pariatur voluptatem, alias ipsam dicta aperiam possimus repellendus hic nisi impedit saepe explicabo totam?"
     },
-    
+    {
+      "id":7,
+      "title":"Don't Go There",
+      "author":"Juliana Silva",
+      "img":"https://marketplace.canva.com/EAD7YH8bebE/1/0/251w/canva-white-bold-text-thriller-mystery-book-cover-CejxvxrTCyg.jpg",
+      "categories": ["Fiction", "English", "Horror"],
+      "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates non commodi voluptatem? Eum quisquam accusamus voluptates, pariatur voluptatem, alias ipsam dicta aperiam possimus repellendus hic nisi impedit saepe explicabo totam?"
+    },
+    {
+      "id":8,
+      "title":"Night",
+      "author":"Casey Christie",
+      "img":"https://thebookcoverdesigners.com/wp-content/uploads/2019/06/Night_pb-eb-des2.jpg",
+      "categories": ["Fiction", "English", "Horror"],
+      "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates non commodi voluptatem? Eum quisquam accusamus voluptates, pariatur voluptatem, alias ipsam dicta aperiam possimus repellendus hic nisi impedit saepe explicabo totam?"
+    },
   ]
 }
