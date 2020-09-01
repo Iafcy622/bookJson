@@ -64,5 +64,13 @@
       "categories":["Fiction","English","Horror"],
       "details":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates non commodi voluptatem? Eum quisquam accusamus voluptates, pariatur voluptatem, alias ipsam dicta aperiam possimus repellendus hic nisi impedit saepe explicabo totam?"
     }
+  ],
+  "users":[
+    {
+      "username":"Test",
+      "password":"test1234",
+      "email":"test1234@gmail.com",
+      "cart":[]
+    }
   ]
 }
