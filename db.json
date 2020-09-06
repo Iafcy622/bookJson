@@ -2,7 +2,7 @@
   "book":[
     {
       "id":1,
-      "price": 20.1,
+      "price": 20,
       "title":"Very Nice",
       "author":"Lorem ipsum dolor",
       "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQq0kMC6S3GDmewRlcAQdhJtI3R2FxuVOsNnw&usqp=CAU",
@@ -11,7 +11,7 @@
     },
     {
       "id":2,
-      "price": 20.1,
+      "price": 20,
       "title":"Very Nice 2",
       "author":"Lorem ipsum dolor",
       "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQq0kMC6S3GDmewRlcAQdhJtI3R2FxuVOsNnw&usqp=CAU",
@@ -20,7 +20,7 @@
     },
     {
       "id":3,
-      "price": 20.1,
+      "price": 20,
       "title":"Very Nice 3",
       "author":"Lorem ipsum dolor",
       "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQq0kMC6S3GDmewRlcAQdhJtI3R2FxuVOsNnw&usqp=CAU",
@@ -29,7 +29,7 @@
     },
     {
       "id":4,
-      "price": 23.9,
+      "price": 23,
       "title":"The Hobbit",
       "author":"Tolkien",
       "img":"https://images-na.ssl-images-amazon.com/images/I/91b0C2YNSrL.jpg",
@@ -38,7 +38,7 @@
     },
     {
       "id":5,
-      "price": 30.0,
+      "price": 30,
       "title":"The Martian",
       "author":"Andy Weir",
       "img":"https://static01.nyt.com/images/2014/02/05/books/05before-and-after-slide-T6H2/05before-and-after-slide-T6H2-superJumbo.jpg?quality=75&auto=webp&disable=upscale",
@@ -47,7 +47,7 @@
     },
     {
       "id":6,
-      "price": 15.9,
+      "price": 15,
       "title":"The King Of Drugs",
       "author":"Nora Barrett",
       "img":"https://d1csarkz8obe9u.cloudfront.net/posterpreviews/action-thriller-book-cover-design-template-3675ae3e3ac7ee095fc793ab61b812cc_screen.jpg?ts=1588152105",
@@ -56,7 +56,7 @@
     },
     {
       "id":7,
-      "price": 29.9,
+      "price": 29,
       "title":"Don't Go There",
       "author":"Juliana Silva",
       "img":"https://marketplace.canva.com/EAD7YH8bebE/1/0/251w/canva-white-bold-text-thriller-mystery-book-cover-CejxvxrTCyg.jpg",
@@ -65,7 +65,7 @@
     },
     {
       "id":8,
-      "price": 19.9,
+      "price": 19,
       "title":"Night",
       "author":"Casey Christie",
       "img":"https://thebookcoverdesigners.com/wp-content/uploads/2019/06/Night_pb-eb-des2.jpg",
